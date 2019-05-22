@@ -1,0 +1,8 @@
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\bin\Debug\SecurityApp.Services.dll
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\bin\Debug\SecurityApp.Services.pdb
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\obj\Debug\SecurityApp.Services.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\obj\Debug\SecurityApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\obj\Debug\SecurityApp.Services.csproj.CopyComplete
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\obj\Debug\SecurityApp.Services.dll
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Services\obj\Debug\SecurityApp.Services.pdb

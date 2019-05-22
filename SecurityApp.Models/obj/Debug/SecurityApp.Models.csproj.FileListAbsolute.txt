@@ -1,0 +1,6 @@
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Models\bin\Debug\SecurityApp.Models.dll
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Models\bin\Debug\SecurityApp.Models.pdb
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Models\obj\Debug\SecurityApp.Models.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Models\obj\Debug\SecurityApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Models\obj\Debug\SecurityApp.Models.dll
+C:\Users\Shipa\source\repos\SecurityApp.WPF\SecurityApp.Models\obj\Debug\SecurityApp.Models.pdb
